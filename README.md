@@ -38,7 +38,7 @@ Investigar de que forma índices criminais impactam os preços, a valorização 
 - Allana Oliveira 
 - Erika
 - Nicole 
-- Tawane
+- Tawany Nascimento
 
 ---
 

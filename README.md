@@ -1,31 +1,17 @@
-# Projeto-aplicado-I
-Projeto que investiga como a segurança pública interfere na problemática habitacional em São Paulo, analisando dados de criminalidade (SSP-SP) e de aluguel (QuintoAndar/Imovelweb) com apoio do pensamento computacional para identificar padrões e correlações
+# COMO A SEGURANÇA PÚBLICA INTERFERE NA PROBLEMÁTICA HABITACIONAL: UMA ANÁLISE EXPLORATÓRIA EM SÃO PAULO
+---
+## Descrição do Projeto
+Este projeto foi desenvolvido como parte da disciplina de Projeto Aplicado I, no segundo semestre do curso de Banco de Dados da Universidade Presbiteriana Mackenzie. O objetivo principal do estudo é investigar a relação entre segurança pública e habitaçãol, observando como os índices de criminalidade impactam os preços médios de aluguel, a valorização por bairro e a atratividade de diferentes regiões da cidade de São Paulo.
 
-# Como a segurança pública interfere na problemática habitacional?  
+A solução será baseada em um conjunto de dados público disponível na Secretária de Segurança Pública de SP e no site da Quinto Andar, contendo informações sobre Habitação, preços por metro quadrado nos imóveis de SP, ocorrências da segurança pública em São Paulo por bairros, com ocorrências criminais. Os datasets podem ser consultados na pasta mestre. 
+
 
 ---
 
-## Objetivo  
-Investigar de que forma índices criminais impactam os preços, a valorização e a atratividade de diferentes regiões da cidade de São Paulo.  
-
----
-
-## Metodologia (Pensamento Computacional)  
-- **Decomposição:** separar o problema por bairros, tipos de crime e períodos de tempo.  
-- **Padrões:** identificar tendências (ex.: aumento da criminalidade → desvalorização ou vacância).  
-- **Abstração:** selecionar variáveis relevantes (ex.: preço/m², homicídios dolosos, roubos, furtos).  
-- **Algoritmo (passos):**  
-  1. Carregar datasets (QuintoAndar + SSP-SP).  
-  2. Tratar dados e alinhar séries temporais (2021–2025).  
-  3. Unir informações por período/bairro.  
-  4. Gerar estatísticas e gráficos.  
-  5. Identificar correlações e responder à questão-problema.  
-
----
-
-## 📂 Datasets  
-- **Habitação (QuintoAndar/Imovelweb):** preços médios de aluguel por m², variação mensal, rankings de bairros e descontos em contratos.  
-- **Segurança pública (SSP-SP):** ocorrências criminais (homicídios, roubos, furtos, lesões corporais), mensais, por delegacia, de 2021 a 2025.  
+## Dataset
+- **Habitação (index_quintoandar_imovelwev_serie(1).csv):** preços médios de aluguel por m², variação mensal, rankings de bairros e descontos em contratos.  
+- **Segurança pública (dados_ocorrencia_distritos.xlsx):** ocorrências criminais (homicídios, roubos, furtos, lesões corporais), mensais, por delegacia, de 2019 a 2025.
+- **Segurança pública (distritos.xlsx):** nomes dos distritos por código.
 
 **Limitações:**  
 - Delegacias não coincidem exatamente com os limites oficiais de bairros.  
@@ -34,11 +20,11 @@ Investigar de que forma índices criminais impactam os preços, a valorização 
 
 ---
 
-## Integrantes:
-- Allana Oliveira 
-- Erika
-- Nicole 
-- Tawany Nascimento
+## Integrantes do grupo:
+- @Allana691
+- @Erikabenesi
+- @nicolemoreira082-ponto
+- @Tawanynsantos
 
 ---
 

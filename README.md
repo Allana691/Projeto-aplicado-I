@@ -31,3 +31,4 @@ A solução será baseada em um conjunto de dados público disponível na Secret
 ## Repositório  
 Este é o repositório oficial do projeto aplicado.  
 Datasets e códigos de análise serão adicionados ao longo do desenvolvimento.  
+Mackenzie 2025

@@ -9,9 +9,11 @@ A solução será baseada em um conjunto de dados público disponível na Secret
 ---
 
 ## Dataset
-- **Habitação (index_quintoandar_imovelwev_serie(1).csv):** preços médios de aluguel por m², variação mensal, rankings de bairros e descontos em contratos.  
-- **Segurança pública (dados_ocorrencia_distritos.xlsx):** ocorrências criminais (homicídios, roubos, furtos, lesões corporais), mensais, por delegacia, de 2019 a 2025.
-- **Segurança pública (distritos.xlsx):** nomes dos distritos por código.
+- **Habitação (quintoAndar.xlsx):** preços médios de aluguel por m², variação mensal, rankings de bairros e descontos em contratos de 2023 a 2025.
+- **Habitação (relatoriosTrimestrais.xlsx):** Indicadores agregados por trimestre.
+- **Segurança pública (dados_ocorrencia_distritos.xlsx):** ocorrências criminais (homicídios, roubos, furtos, lesões corporais), mensais, por delegacia, de 2023 a 2025.
+- **Geo Sampa (distritos_bairros.xlsx):** nomes dos distritos e bairros por código.
+- **Habitação (data.csv):** Informações de imóveis ativos no site da Quinto Andar em Maio/2023.
 
 **Limitações:**  
 - Delegacias não coincidem exatamente com os limites oficiais de bairros.  

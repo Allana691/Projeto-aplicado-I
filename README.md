@@ -30,6 +30,9 @@ A solução será baseada em um conjunto de dados público disponível na Secret
 
 ---
 
+## Link Para o Storytelling: 
+https://youtu.be/jn4yhLM8MlY
+
 ## Repositório  
 Este é o repositório oficial do projeto aplicado.  
 Datasets e códigos de análise serão adicionados ao longo do desenvolvimento.  
